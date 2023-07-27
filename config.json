@@ -1,13 +1,14 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Smith, Liddle and Curham events and journeys",
+  "title": "S m i t h,  L i d d l e  and  C u r h a m  events and journeys",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Comments can be left here https://kelpstrewn.com/blog/2023/06/19/p05/comments",
+  "footer": "Comments can be left <a href="https://kelpstrewn.com/blog/2023/06/19/p05/comments">here</a> ",
   "usage-stats": false
 }
+
