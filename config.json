@@ -8,7 +8,7 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Comments can be left <a href="https://kelpstrewn.com/blog/2023/06/19/p05/comments">here</a> ",
+  "footer": "Comments can be left <a href=https://kelpstrewn.com/blog/2023/06/19/p05/comments>here</a>",
   "usage-stats": false
 }
 
